@@ -1,6 +1,6 @@
 # Polaris+
 
-Polaris+ is a static website that provide daily information about our galaxies using the Nasa API.
+Polaris+ is a dynamic website that provide daily information about our galaxies using the Nasa API.
 We're planning to expand this program, by integrating the Mars weather API.
 
 ## The Technology behind Polaris+
